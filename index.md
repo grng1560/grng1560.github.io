@@ -8,8 +8,7 @@ title: Home
 Welcome to my portfolio! Here are some of my projects:
 
 ## Projects
-- [Project 1](https://github.com/grng1560/project1) - Short description
-- [Project 2](https://github.com/grng1560/project2) - Short description
+- [Projects Page](/projects.html)
 
 ## Skills
 - Python
