@@ -36,7 +36,7 @@ Visualizes data from the World Happiness Index from 2013-2023.
 Tableau Public, Kaggle data
 
 **Key Features / Highlights:**  
-- Top 10 Happiest countries
+- Top 10 happiest countries
 - Interactive filters
 - Visualizations
   
