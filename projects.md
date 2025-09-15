@@ -40,7 +40,7 @@ Tableau Public, Kaggle data
 - Interactive filters
 - Visualizations
   
-**Data Source:** [Uber Dataset on Kaggle](https://www.kaggle.com/datasets/simonaasm/world-happiness-index-by-reports-2013-2023)
+**Data Source:** [World Happiness Index Dataset on Kaggle](https://www.kaggle.com/datasets/simonaasm/world-happiness-index-by-reports-2013-2023)
   
 **Files / Notebooks:**  
 - [View Dashboard](https://public.tableau.com/app/profile/grace.nguyen/viz/UnderstandingHappinessAroundtheWorld/Dashboard1)
