@@ -20,7 +20,7 @@ Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook
 - Detailed explanation of data cleaning, imputation, and analysis
 
 **Files / Notebooks:**  
-- [View Notebook](https://github.com/username/repo/blob/main/notebook.ipynb](https://github.com/grng1560/grng1560.github.io/blob/main/UberDataAnalysis.ipynb)
+- [View Notebook](https://github.com/grng1560/grng1560.github.io/blob/main/UberDataAnalysis.ipynb)
 
 **Live Version / Demo:**  
 - [View on Binder](https://mybinder.org/v2/gh/grng1560/grng1560.github.io/main?filepath=UberDataAnalysis.ipynb)
